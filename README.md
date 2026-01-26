@@ -1,4 +1,4 @@
-# AeroBeat Feature Template
+# AeroBeat Feature - Step
 
 This is the official template for creating a **Feature** repository within the AeroBeat ecosystem.
 

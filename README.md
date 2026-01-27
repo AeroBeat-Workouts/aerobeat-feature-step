@@ -1,6 +1,6 @@
-# AeroBeat Feature - Step
+# AeroBeat Step Feature
 
-This is the official template for creating a **Feature** repository within the AeroBeat ecosystem.
+This is the official codebase for AeroBeats Step gameplay feature.
 
 A **Feature** contains the pure gameplay logic for a specific mode (e.g., Boxing, Flow, Step). It is designed to be modular and plugged into an **Assembly**.
 
